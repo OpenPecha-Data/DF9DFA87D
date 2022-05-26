@@ -1,0 +1,22 @@
+id: DF9DFA87D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:08:01+00:00'
+last_modified: '2022-05-26T14:31:37.204976+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    415b:
+      image_group_id: I1PD95886
+      title: འཕགས་པ་ཚོགས་ཀྱི་བདག་པོ་ཆགས་པ་རྡོ་རྗེའི་དམ་ཚིག་གི་བསྟོད་པ།
+      total_pages: 1349
+      order: 41
+      base_file: 415b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
